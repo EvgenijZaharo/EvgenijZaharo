@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Student of **Information Systems and Programming**  
+- 🎯 Student of **Information Systems and Technologies**  
 - 💡 Building web apps with **React, Angular, TypeScript, and Tailwind CSS**  
 ---
 
